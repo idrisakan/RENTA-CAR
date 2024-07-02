@@ -1,18 +1,19 @@
-## RENTA CAR
+# RENTA CAR CLONE
 
-Teknolojiler
+- Araç kiralama uygulaması klonu, kullanıcıların araçları listeleyip kiralamasına olanak tanır. Modern web teknolojileri kullanılarak oluşturulmuştur ve kullanıcı deneyimini en üst düzeye çıkarmak için çeşitli özellikler içerir.
 
-react
+## Kullanılan Teknolojiler
 
-typescript
+- React: Kullanıcı arayüzü bileşenlerini oluşturmak için.
 
-react-router-dom
+- TypeScript: Tip güvenliğini sağlamak ve daha sağlam kod yazmak için.
+- React Router Dom: Uygulama içinde yönlendirme yapmak için.
 
-react-select
+- React Select: Kullanıcı dostu ve özelleştirilebilir seçim bileşenleri oluşturmak için.
 
-tailwind
+- Tailwind CSS: Hızlı ve verimli bir şekilde stil vermek için.
 
-framer-motion
+- Framer Motion: Animasyon ve hareket efektleri eklemek için.
 
 Resim için API
 https://cdn.imagin.studio/getimage
@@ -22,4 +23,6 @@ make
 modelFamily
 zoomtype
 angle
-paintId# RENTA-CAR
+paintId
+
+<img src="renta-car.gif" />
