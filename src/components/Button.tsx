@@ -8,7 +8,14 @@ type Props = {
   icon?: string;
   handleClick?: MouseEventHandler<HTMLButtonElement>;
 };
-const Button = ({ title, designs, type, disable, icon, handleClick }: Props) => {
+const Button = ({
+  title,
+  designs,
+  type,
+  disable,
+  icon,
+  handleClick,
+}: Props) => {
   return (
     <button
       onClick={handleClick}
